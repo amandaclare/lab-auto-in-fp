@@ -18,3 +18,5 @@ lhs2TeX Lab-auto-in-fp.lhs -o Lab-auto-in-fp.tex
 pdflatex Lab-auto-in-fp.tex
 pdflatex Lab-auto-in-fp.tex
 ```
+
+Try running the example `eg`, which runs the scheduler with an example workflow, a specific configuration of initial devices and an infinite event list (and so will not terminate). 
